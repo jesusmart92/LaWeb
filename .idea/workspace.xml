@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:LaWeb" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6666e9e5-39c0-4e96-ad5f-5887aedff0c0" name="Default Changelist" comment="version brillante">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c2P5ZVaClhsNanTtyyLkZxdJ5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/produ/static/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/produ/static/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="espia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SocialEd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/produ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/produ/espia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SocialEd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/produ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/produ/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.espia" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.espia" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6666e9e5-39c0-4e96-ad5f-5887aedff0c0" name="Default Changelist" comment="" />
+      <created>1589723532141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589723532141</updated>
+    </task>
+    <task id="LOCAL-00001" summary="version por defecto">
+      <created>1589723927702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589723927702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version HTML con varios cambios">
+      <created>1589724795529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589724795529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version CSS">
+      <created>1589904829050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589904829050</updated>
+    </task>
+    <task id="LOCAL-00004" summary="version espia">
+      <created>1589907095987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589907095987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="version espia">
+      <created>1589907245552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589907245552</updated>
+    </task>
+    <task id="LOCAL-00006" summary="version con control de errores">
+      <created>1589907795138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589907795138</updated>
+    </task>
+    <task id="LOCAL-00007" summary="version sesiones">
+      <created>1589908820643</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589908820643</updated>
+    </task>
+    <task id="LOCAL-00008" summary="version brillante">
+      <created>1589909504790</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909504790</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version por defecto" />
+    <MESSAGE value="version HTML con varios cambios" />
+    <MESSAGE value="version CSS" />
+    <MESSAGE value="version espia" />
+    <MESSAGE value="version con control de errores" />
+    <MESSAGE value="version sesiones" />
+    <MESSAGE value="version brillante" />
+    <option name="LAST_COMMIT_MESSAGE" value="version brillante" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="456" height="233" key="GridCell.Tab.0.bottom" timestamp="1589909117982">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state width="456" height="233" key="GridCell.Tab.0.bottom/0.25.958.951@0.25.958.951" timestamp="1589909117982" />
+    <state width="456" height="233" key="GridCell.Tab.0.center" timestamp="1589909117981">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state width="456" height="233" key="GridCell.Tab.0.center/0.25.958.951@0.25.958.951" timestamp="1589909117981" />
+    <state width="456" height="233" key="GridCell.Tab.0.left" timestamp="1589909117981">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state width="456" height="233" key="GridCell.Tab.0.left/0.25.958.951@0.25.958.951" timestamp="1589909117981" />
+    <state width="456" height="233" key="GridCell.Tab.0.right" timestamp="1589909117981">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state width="456" height="233" key="GridCell.Tab.0.right/0.25.958.951@0.25.958.951" timestamp="1589909117981" />
+    <state x="100" y="228" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1589908921118">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state x="100" y="228" width="802" height="523" key="Vcs.Push.Dialog.v2/0.25.958.951@0.25.958.951" timestamp="1589908921118" />
+    <state x="275" y="290" width="399" height="415" key="git4idea.merge.GitMergeDialog" timestamp="1589908876458">
+      <screen x="0" y="25" width="958" height="951" />
+    </state>
+    <state x="275" y="290" width="399" height="415" key="git4idea.merge.GitMergeDialog/0.25.958.951@0.25.958.951" timestamp="1589908876458" />
+  </component>
+</project>
