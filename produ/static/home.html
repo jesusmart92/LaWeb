@@ -2,27 +2,47 @@
 <html lang="es">
 <head>
     <meta charset="utf-8"/>
-    <title>Inicio - SocialED</title>
     <link href="static/css/socialed-style.css" rel="stylesheet" type="text/css"/>
+    <title>Inicio - SocialED</title>
 </head>
 <body>
 <div id="container">
-    <a href="/">SocialED</a> | <a href="home">Inicio</a> | <a href="login">Acceso</a> | <a href="signup">Registro</a>
-    <h1>Hola Robledano, ¿me apruebas?</h1>
+    <a href="/">SocialED</a> | <a href="profile">Perfil</a> | <a href="login">Salir {{nickname}}</a>
+    <h1>Hola internauta, Qué tal estás?</h1>
+    <h2>{{ nickname}}</h2>
     <div>
-        <form action="processHome" method="post" name="home">
-            <label for="message">Escriba si o si</label>
-            <div class="inputs">
+        <div id="left">
+            <form action="home" method="post" name="envio">
+                <label for="message">Escribe algo...</label>
+                <div class="inputs">
+                    {% for message in messages %}
+                    <li> {{ message[1] }}</li>
+                    {% endfor %}
+                </div>
                 <input id="message" name="message" required="true"
-                       placeholder="Aquí debe de escribir sí" maxlength="128" size="80"
+                       placeholder="Aquí tus bellas palabras..." maxlength="128" size="80"
                        type="text" value=""/>
                 <input id="last" name="last" type="hidden" value=""/>
-            </div>
-            <div class="inputs">
-                <input id="post_submit" name="post_submit" type="submit" value="Post!"/>
-            </div>
+        </div>
+        <div class="inputs">
+            <input id="post_submit" name="post_submit" type="submit" value="Post!"/>
+        </div>
         </form>
     </div>
+    <div id="right">
+        <form>
+            <label for="post">
+                Cosas de tus amistades...:
+            </label>
+            <div class="inputs">
+                {% for message in friends_messages %}
+                <li> {{ message[0] }}: {{ message[2] }}</li>
+                {% endfor %}
+            </div>
+
+        </form>
+    </div>
+</div>
 </div>
 </body>
 </html>
